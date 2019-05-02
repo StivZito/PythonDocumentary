@@ -1,0 +1,8 @@
+http://docs.python.org.ar/tutorial/
+https://es.coursera.org/learn/python
+https://www.python.org/downloads/
+https://docs.python.org/3.7/tutorial/index.html
+https://docs.python.org/3.7/index.html
+
+https://www.w3schools.com/python/python_conditions.asp
+nos quedamos en if else
