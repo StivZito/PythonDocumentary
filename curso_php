@@ -1,0 +1,7 @@
+php
+
+centos 6 - conexion con putty
+
+identificamos la ip que nos da el centos 
+y  en el putty ponemos la ip de la maquina
+y nos entrara a consola para administracion de root
